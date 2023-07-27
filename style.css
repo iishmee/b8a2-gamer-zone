@@ -1,0 +1,328 @@
+.banner{
+    height: 700px;
+    width: 1500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("Group\ 14.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 11px;
+    padding-bottom: 0px;
+}
+.banner-text{
+    height: 400px;
+    width: 500px;
+    text-align: left;
+    margin-left: 300px;
+}
+.first-line{
+    font-size: 35px;
+}
+.gline h3{
+    font-size: 71px;
+    background: -webkit-linear-gradient(#F345AE, #8A58EF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.text-with-img img{
+    height: 20px;
+    width: 20px;
+}
+.button{
+    margin-top: 15px ;
+}
+.button1{
+    border: none;
+    font-size: 17px;
+    background-color: rgb(255, 122, 220);
+    padding: 15px;
+    color: white;
+    border-radius: 15px;
+}
+.button2{
+    border: none;
+    font-size: 17px;
+    background-color: rgb(105, 156, 243);
+    padding: 15px;
+    color: white;
+    border-radius: 15px;
+}
+.banner2{
+    height: 800px;
+    width: 1500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 11px;
+    padding-bottom: 0px;
+}
+.banner-text2{
+    height: 500px;
+    width: 500px;
+    text-align: right;
+    margin-right: 200px;
+}
+.button3{
+    background-color: #F345AE;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+}
+.banner-text2 h2{
+    font-size: 65px;
+    background: -webkit-linear-gradient(#F345AE, #8A58EF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.cardmain{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 1000px;
+    margin-top: 100px;
+    margin: auto;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 500px;
+    margin-top: 100px;
+    margin: auto;
+}
+.cardtext{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+.cardtext h1{
+    font-size: 55px;
+    background: -webkit-linear-gradient(#F345AE, #8A58EF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.tp{
+    font-size: 30px;
+}
+
+.playinstant{
+    height: 900px;
+    width: 1500px;
+    margin-top: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 11px;
+    padding-bottom: 0px;
+    
+}
+.pitext{
+    font-size: 30px;
+    text-align: right;
+    height: 500px;
+    width: 500px;
+}
+.spitext{
+    color: #F345AE;
+}
+.spitext2{
+    color: black;
+}
+.playinstant p{
+    font-size: 25px;
+}
+
+.piimg{
+    position: relative;
+}
+.secondimg{
+    position: absolute;
+    top: 550px;
+    left: -70px;
+    border: white solid 15px;
+    border-radius: 10px;
+
+}
+
+.career{
+    height: 800px;
+    width: 1500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f775c3;
+    padding: 17px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+.textofcareer{
+    color: white;
+    text-align: left;
+    display: block;
+    height: 500px;
+    width: 700px;
+    margin-left: 50px;
+    font-size: larger;
+}
+.listall{
+    display: flex;
+    font-weight: bolder;
+}
+.listtwo{
+    text-align: right;
+}
+.buttonofcareer{
+    color: #F345AE;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 25px;
+}
+.icon{
+    padding: 25px;
+    gap: 15px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer{
+    color: black;
+    background-color: skyblue;
+    height: 300px;
+    width: 1500px;
+    display: block;
+    justify-content: center;
+    padding: 50px;
+    margin: auto;
+}
+.gamerlogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 50px;
+    margin: auto;
+    
+}
+.g{
+    color: #F345AE;
+}
+.mer{
+    color: white;
+}
+.contacts{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 15px;
+}
+.iconfoot{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 25px;
+}
+.terms{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 25px;
+}
+.last{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (max-width:576px) {
+    .banner-img{
+        padding-bottom: 0px;
+        width: 100%;
+        margin: 10px;
+        margin-bottom: 0px;
+    }
+    .banner{
+        width: 200%;
+        flex-direction: column-reverse;
+        height: 1300px;
+    }
+    .banner-text{
+        width: 576px;
+        margin-top: 50px;
+        margin: auto;
+    }
+
+    .banner2{
+        width: 200%;
+        flex-direction: column;
+        height: 1300px;
+    }
+    .banner-text2{
+        width:300px;
+        margin-top: 50px;
+        text-align: center;
+        margin: auto;
+    }
+    .cardmain{
+        width: 200%;
+        flex-direction: column;
+        margin: auto;
+        margin-top: 500px;
+    }
+    .card{
+        width: 200%;
+        flex-direction: column;
+        margin: auto;
+        margin-top: 500px;
+    }
+    
+    
+    .playinstant{
+        width: 200%;
+        flex-direction: column;
+        margin: auto;
+        margin-top: 1000px;
+    }
+    .pitext{
+        margin: auto;
+        text-align: center;
+    }
+
+    .career{
+        height: 1700px;
+        width: 200%;
+        flex-direction: column;
+        margin: auto;
+        margin-top: 500px;
+    }
+    .footer{
+        width: 200%;
+    }
+}
